@@ -1,0 +1,71 @@
+[
+    {
+      "id": 1,
+      "companyLogo": "https://i.ibb.co/BCXHZ19/google-1-1-1.png",
+      "jobTitle": "Technical Database Engineer",
+      "companyName": "Google LLC",
+      "remoteOrOnsite": "Remote",
+      "location": "Dhaka,Bangladesh",
+      "fulltimeOrPartTime": "Full-time",
+      "salary": "100k-150k",
+      "jobDescription": "We are seeking a talented software engineer to join our team and help us build cutting-edge software products.",
+      "jobResponsibility": "Design, develop, and maintain software products, collaborate with team members to ensure project success, and stay up-to-date with industry trends and best practices.",
+      "educationalRequirements": "Bachelor's degree in Computer Science or related field",
+      "experiences": "3+ years of experience in software engineering",
+        "phone": "555-1234",
+        "email": "jobs@acmeinc.com"
+  
+    },
+    {
+      "id": 2,
+      "companyLogo": "https://i.ibb.co/qNwq7dX/netflix-4-1.png",
+      "jobTitle": "Senior Product Designer",
+      "companyName": "Netflix",
+      "remoteOrOnsite": "Onsite",
+      "location": "Dhaka,Bangladesh",
+      "fulltimeOrPartTime": "Part-time",
+      "salary": "100k-150k",
+      "jobDescription": "We are seeking a creative and driven marketing specialist to help us promote our products and services.",
+      "jobResponsibility": "Develop and implement marketing strategies, manage social media accounts, create engaging content, and measure the effectiveness of marketing campaigns.",
+      "educationalRequirements": "Bachelor's degree in Marketing or related field",
+      "experiences": "1+ years of experience in marketing",
+      
+        "phone": "555-5678",
+        "email": "jobs@globexcorp.com"
+    },
+    {
+      "id": 3,
+      "companyLogo": "https://i.ibb.co/ByyVC3m/tesla-9-1.png",
+      "jobTitle": "Software Engineer",
+      "companyName": "Tesla",
+      "remoteOrOnsite": "Remote",
+      "location": "Dhaka,Bangladesh",
+      "fulltimeOrPartTime": "Full-time",
+      "salary": "100k-150k",
+      "jobDescription": "We are seeking a talented UX designer to join our team and help us create intuitive and engaging user experiences.",
+      "jobResponsibility": "Conduct user research, create wireframes and prototypes, collaborate with developers to implement designs, and stay up-to-date with industry trends and best practices.",
+      "educationalRequirements": "Bachelor's degree in Design or related field",
+      "experiences": "2+ years of experience in UX design",
+        "phone": "555-9012",
+        "email": "jobs@initech.com"
+    
+    },
+    {
+      "id": 4,
+      "companyLogo": "https://i.ibb.co/BCXHZ19/google-1-1-1.png",
+      "jobTitle": "Technical Database Engineer",
+      "companyName": "Google LLC",
+      "remoteOrOnsite": "Onsite",
+      "location": "Raccoon City, PA",
+      "fulltimeOrPartTime": "Full-time",
+      "salary": "100k-150k",
+      "jobDescription": "We are seeking a skilled data analyst to help us make sense of our data and provide insights to",
+      "jobResponsibility": "Conduct user research, create wireframes and prototypes, collaborate with developers to implement designs, and stay up-to-date with industry trends and best practices.",
+      "educationalRequirements": "Bachelor's degree in Design or related field",
+      "experiences": "2+ years of experience in UX design",
+        "phone": "555-9012",
+        "email": "jobs@initech.com"
+    
+    }
+]
+  
