@@ -1,0 +1,14 @@
+.see-all-btn{
+    width: 157px;
+    height: 49px;
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+    border-radius: 4px;
+    margin-top: 24px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 27px;
+    
+    color: #FFFFFF;
+}

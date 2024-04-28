@@ -1,0 +1,28 @@
+.category{
+    width: 311px;
+    height: 243px;
+    background: linear-gradient(90deg, rgba(126, 144, 254, 0.05) 0%, rgba(152, 115, 255, 0.05) 100%);
+    border-radius: 8px;
+    border: 2px;
+    margin-left: 25px;
+}
+.category img{
+
+  padding: 20px;
+  margin-top: 24px;
+  margin-left: 24px;
+}
+.category p{
+    margin-left: 24px;
+}
+.category h3{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 27px;
+
+/* Dark 02 */
+
+color: #474747;
+}
